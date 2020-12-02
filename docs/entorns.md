@@ -5,5 +5,5 @@ Entorns de desenvolupament és una assignatura molt divertida on el tens el apre
 Entra en el classrom aqui: [Entorns de desenvolupament](https://edu.google.com/intl/es/products/classroom/)
 
     MENÚ
-- [Index](https://AlbertoFBM.github.io/index.md)
+- [Index](index.md)
 - [Programació](programacio.md)
