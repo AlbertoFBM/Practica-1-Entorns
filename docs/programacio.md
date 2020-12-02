@@ -6,4 +6,4 @@ Entra en el classrom aqui: [Programació](https://edu.google.com/intl/es/product
 
     MENÚ
 [Index](index.md)
-[Entorns](entorns.md)
+[Entorns](https://albertofbm.github.io/Practica-1-Entorns/entorns)
