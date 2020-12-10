@@ -1,9 +1,0 @@
-## Welcome to Entorns page
-
-Entorns de desenvolupament és una assignatura molt divertida on el tens el aprenentatge assegurat, a més el professor que imparteix l'assignatura és un streamer de Discord famós
-
-Entra en el classrom aqui: [Classroom](https://edu.google.com/intl/es/products/classroom/)
-
-    MENÚ
-[Index](index.md)
-[Programació](https://albertofbm.github.io/Practica-1-Entorns/programacio.md)
